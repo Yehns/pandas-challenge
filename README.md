@@ -1,6 +1,4 @@
-# pandas-challenge
-PyCitySchool - Module 4
-
+ 
 **Module 4 Challenge** -  
 **Analysis of Available Data**
 
