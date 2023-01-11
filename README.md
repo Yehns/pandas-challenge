@@ -1,9 +1,8 @@
 # pandas-challenge
 PyCitySchool - Module 4
 
-**Module 4 Challenge 
-- **Analysis of Available Data
-Analysis of Results**
+**Module 4 Challenge** -  
+**Analysis of Available Data**
 
 The provided school data offers insight into the performance of government and independent schools and the associated students. The data containing over 36,000 student entries can be refined to pull key identifiers to the academic performance and financial considerations.
 
