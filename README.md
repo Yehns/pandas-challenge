@@ -1,9 +1,10 @@
 # pandas-challenge
 PyCitySchool - Module 4
 
-Module 4 Challenge
+**Module 4 Challenge 
 Analysis of Available Data
-Analysis of Results
+Analysis of Results**
+
 The provided school data offers insight into the performance of government and independent schools and the associated students. The data containing over 36,000 student entries can be refined to pull key identifiers to the academic performance and financial considerations.
 
 The data reveals a total of 15 schools with a combined budget of over $24 million, maintaining a consistent average score for mathematics at 70.3% and an average reading score of 70%. A comfortable majority of students are passing both subjects representing  83.5% of the given population.
